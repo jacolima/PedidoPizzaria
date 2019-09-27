@@ -6,3 +6,5 @@ Operador:
 
 Telefone:
 Cleinte:
+CPF:
+E-mail:
